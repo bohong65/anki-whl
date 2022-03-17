@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+decorator
+protobuf
+orjson
+psutil
+distro

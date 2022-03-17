@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: anki
+Version: 2.1.40
+Summary: an anki package for all platform
+Home-page: https://github.com/bohong65/anki-whl
+Author: bohong65
+Author-email: bohong65@gmail.com
+License: GPL Licence
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Development Status :: 4 - Beta
+Requires-Python: >=3.8
